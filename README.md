@@ -6,8 +6,8 @@
 ## 第6章　勾配を利用した近似推論手法
 - ラプラス近似
   - 線形回帰
-    - 単一パラメータ
-    - 複数パラメータ
+    - [単一パラメータ](https://github.com/akiabe/JuliaBayesBook/blob/main/src/lr_param_LA.ipynb)
+    - [複数パラメータ](https://github.com/akiabe/JuliaBayesBook/blob/main/src/lr_params_LA.ipynb)
   - ロジスティック回帰
 　
 - ハミルトニアンモンテカルロ法
