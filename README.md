@@ -1,8 +1,15 @@
 # JuliaBayesBook
 
 # 「Juliaで作って学ぶベイズ統計学」
-本書の内容を写経し、内容理解する。
+本書の内容を写経し、理解する。
 
- - [ベクトル場の可視化](https://github.com/akiabe/JuliaBayesBook/blob/main/src/Plot_Vectorfield.ipynb)
- - [微分計算](https://github.com/akiabe/JuliaBayesBook/blob/main/src/differential.ipynb)
+### 第6章　勾配を利用した近似推論手法
+- ラプラス近似
+　- 線形回帰（単一パラメータ）
+　- 線形回帰（複数パラメータ）
+　- ロジスティック回帰
+　
+- ハミルトニアンモンテカルロ法
+  - 線形回帰
+  - ロジスティック回帰
 
