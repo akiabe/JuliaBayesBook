@@ -8,7 +8,7 @@
   - 線形回帰
     - [単一パラメータ](https://github.com/akiabe/JuliaBayesBook/blob/main/src/lr_param_LA.ipynb)
     - [複数パラメータ](https://github.com/akiabe/JuliaBayesBook/blob/main/src/lr_params_LA.ipynb)
-  - ロジスティック回帰
+  - [ロジスティック回帰](https://github.com/akiabe/JuliaBayesBook/blob/main/src/logistics-regression_laplace.ipynb)
 　
 - ハミルトニアンモンテカルロ法
   - 線形回帰
