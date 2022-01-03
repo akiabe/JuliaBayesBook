@@ -15,8 +15,8 @@
     - [メトロポリスヘイスティングス法](https://github.com/akiabe/JuliaBayesBook/blob/main/src/linear-regression_GMH.ipynb)
     - [ハミルトニアンモンテカルロ法](https://github.com/akiabe/JuliaBayesBook/blob/main/src/linear-regression_HMC.ipynb)
   - ロジスティック回帰
-    - メトロポリスヘイスティングス法
-    - ハミルトニアンモンテカルロ法
+    - [メトロポリスヘイスティングス法](https://github.com/akiabe/JuliaBayesBook/blob/main/src/logistic-regression_GMH.ipynb)
+    - [ハミルトニアンモンテカルロ法](https://github.com/akiabe/JuliaBayesBook/blob/main/src/logistic-regression_HMC.ipynb)
 
 ## 第7章　発展的な統計モデル
 - ポアソン回帰
