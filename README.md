@@ -10,9 +10,13 @@
     - [複数パラメータ](https://github.com/akiabe/JuliaBayesBook/blob/main/src/lr_params_LA.ipynb)
   - [ロジスティック回帰](https://github.com/akiabe/JuliaBayesBook/blob/main/src/logistics-regression_laplace.ipynb)
 　
-- ハミルトニアンモンテカルロ法
+- マルコフ連鎖モンテカルロ
   - 線形回帰
+    - [メトロポリスヘイスティングス法](https://github.com/akiabe/JuliaBayesBook/blob/main/src/linear-regression_GMH.ipynb)
+    - [ハミルトニアンモンテカルロ法](https://github.com/akiabe/JuliaBayesBook/blob/main/src/linear-regression_HMC.ipynb)
   - ロジスティック回帰
+    - メトロポリスヘイスティングス法
+    - ハミルトニアンモンテカルロ法
 
 ## 第7章　発展的な統計モデル
 - ポアソン回帰
