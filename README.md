@@ -24,4 +24,4 @@
 - 階層ベイズモデル
   - [ハミルトニアンモンテカルロ法](https://github.com/akiabe/JuliaBayesBook/blob/main/src/hierarchical-bm_HMC.ipynb)
 - 状態空間モデル
-  - ハミルトニアンモンテカルロ法
+  - [ハミルトニアンモンテカルロ法](https://github.com/akiabe/JuliaBayesBook/blob/main/src/state-space-model_HMC.ipynb)
